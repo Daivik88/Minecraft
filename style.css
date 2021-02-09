@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+#title{
+    width: 500px;
+    margin-bottom: 50px
+}
+.grid{
+    width: 200px;
+    height: 200px;
+    margin-right: 10px;
+}
+#img1{
+    width: 900px;
+}
+#img2{
+    width: 900px;
+}
+}#img3{
+    width: 900px;
+}
